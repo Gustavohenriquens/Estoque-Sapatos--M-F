@@ -1,36 +1,3 @@
-O que eu aprendi neste Projeto ??????????????
 
-
-
--   Posso usar as propriedades de outra classe na minha list(ou qualquer outra coleção) sem herdar ela.
-Ex : List<Produto> estoque = new List<Produto>();
-
-
--   RemoveAll() -> Usado quando você deseja remover elementos de uma lista com base em uma condição específica, 
-que pode envolver propriedades de objetos contidos na lista.
-É mais apropriado porque você está removendo todos os produtos com um determinado identificador, não apenas a primeira ocorrência.    
-
-Ex : estoque.RemoveAll(produto => produto.Identificador == numeroDoId); -> Um produto como parâmetro e retorna 
-true se o identificador do produto for igual ao valor em numeroDoId.
-
-
-O estoque vai procurar um identificador que seja igual ao IdProduto, que é o que o usuário vai passar :
-Produto produtoParaRemover = estoque.Find(p => p.Id == IdProduto);
-
-Vai adcionar um novo produto no estoque : 
-Produto novoProduto= new Produto(novoNome, novoID, novaQuantidade);
-estoque.Add(novoProduto);
-
-
-
-Por que precisou usar esse método para pesquisar um produto?
-
-public override string ToString()
-{
-    return $"ID : {Identificador}, Nome : {Nome}, Quantidade : {Quantidade}";
-}
-Sempre quando utilizar ou chamar um objeto que retorne algo, precisa do método ToString().
-Ao usar Console.WriteLine(objeto), o C# automaticamente chama o método ToString() 
-do objeto para obter uma representação em formato de string desse objeto.
 
 
