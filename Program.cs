@@ -1,6 +1,3 @@
-﻿//Simulador de Estoque: Crie um sistema básico de controle de estoque com operações de adicionar 
-//e remover itens. (Usando o menu interativo ou o Dictionary).
-
 using projeto_3.Models;
 
 EstoqueM estoqueM = new EstoqueM();
