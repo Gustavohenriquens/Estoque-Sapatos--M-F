@@ -1,0 +1,14 @@
+D:\Projetos_pequenos_em_C#\projeto_3\bin\Debug\net8.0\projeto_3.exe
+D:\Projetos_pequenos_em_C#\projeto_3\bin\Debug\net8.0\projeto_3.deps.json
+D:\Projetos_pequenos_em_C#\projeto_3\bin\Debug\net8.0\projeto_3.runtimeconfig.json
+D:\Projetos_pequenos_em_C#\projeto_3\bin\Debug\net8.0\projeto_3.dll
+D:\Projetos_pequenos_em_C#\projeto_3\bin\Debug\net8.0\projeto_3.pdb
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.AssemblyInfoInputs.cache
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.AssemblyInfo.cs
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.csproj.CoreCompileInputs.cache
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.dll
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\refint\projeto_3.dll
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.pdb
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\projeto_3.genruntimeconfig.cache
+D:\Projetos_pequenos_em_C#\projeto_3\obj\Debug\net8.0\ref\projeto_3.dll
